@@ -38,7 +38,7 @@
 //2. document.getElementById('id');-->return a single element.
 
 // let id= document.getElementById('kush');
-// // console.log(id);
+// console.log(id);
 // id.style.fontSize='40px';
 
 

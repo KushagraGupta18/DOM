@@ -13,8 +13,10 @@
 
 //innerHTML(it gives full information such as tags , text and attribute)
 // let para3=document.querySelector('p');
+
 //acting like my getter
 // console.log(para3.innerHTML);
+
 //acting like my setter
 // para3.innerHTML='hi ab mai purane wala dost nhi rha';
 
